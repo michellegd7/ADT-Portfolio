@@ -16,7 +16,7 @@
 4. i want to prepare myself for future work in the IT industry.
 5. I will do my best, keep learning, and enjoy the subject.
 
-## To kno more information about me..
+## To know more information about me..
 I am interested in technology and enjoy learning new things about application developmnt. I like creating project and improving my skills. I hope to become a succesful IT professional in the future.
 
 
