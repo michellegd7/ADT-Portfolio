@@ -4,7 +4,7 @@
 
 **Name:** Michelle G. Dungog
 
-**Courses:** Bavhelor of Science in Information TEchnology (BSIT)
+**Courses:** Bachelor of Science in Information TEchnology (BSIT)
 
 **Section:** CCS066
 
